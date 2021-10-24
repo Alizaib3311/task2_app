@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ali</string>
+    <string-array name="meat">
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Mutton</item>
+        <item>Fish</item>
+    </string-array>
+
+    <string-array name="vegeatable">
+        <item>Onion</item>
+        <item>Potato</item>
+        <item>Tomato</item>
+        <item>Chilli</item>
+        <item>Reddish</item>
+        <item>Carrot</item>
+    </string-array>
+
+    <string-array name="dessert">
+        <item>Cake</item>
+        <item>Sweet</item>
+        <item>Choclate</item>
+        <item>Candy</item>
+    </string-array>
+</resources>
